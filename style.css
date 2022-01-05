@@ -26,6 +26,16 @@ h2{
 .width-box img{
     width: 70%;
 }
+.width-mission-box{
+    width: 20%;
+    padding-left: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10%;
+}
+.width-mission-box img{
+    width: 40%;
+}
 .click-button{
     text-decoration: none;
     background-image: linear-gradient(#ff9966, #ff5e62  );
@@ -39,3 +49,13 @@ h2{
 #heading-center{
     text-align: center;
 }
+#misson-bg-colour{
+    background-color: #FF6F61;
+}
+#vission-bg-colour{
+    background-color: #6B5B95;
+
+}  
+#goal-bg-colour{
+    background-color: #F7CAC9;
+}  
