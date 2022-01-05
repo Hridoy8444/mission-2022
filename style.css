@@ -5,6 +5,12 @@ h1{
     font-size: 45px;
     
 }
+h2{
+    font-size: 40px;
+}
+.section-padding{
+    padding-bottom: 100px;
+}
 .font-text-color{
     color: orange;
 }
@@ -29,4 +35,7 @@ h1{
 }
 #footer-width{
     padding-left: 10%;
+}
+#heading-center{
+    text-align: center;
 }
