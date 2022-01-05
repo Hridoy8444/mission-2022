@@ -1,0 +1,32 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+h1{
+    font-size: 45px;
+    
+}
+.font-text-color{
+    color: orange;
+}
+.flaxible-box{
+    display: flex;
+    
+}
+.width-box{
+    width: 50%;
+    padding-top: 2%;
+    padding-left: 10%;
+}
+.width-box img{
+    width: 70%;
+}
+.click-button{
+    text-decoration: none;
+    background-image: linear-gradient(#ff9966, #ff5e62  );
+    padding: 10px 20px 10px 20px;
+    color: white;
+    border-radius: 5px;
+}
+#footer-width{
+    padding-left: 10%;
+}
