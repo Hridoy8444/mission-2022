@@ -47,7 +47,21 @@ h2{
 .width-mission-box img{
     width: 40%;
 }
-
+#Develop-limits{
+    margin-top: 8%;
+}
+.width-child-box{
+    width: 40%;
+    padding-left: 10%;
+}
+.width-child-box img{
+    width: 80%;
+    
+}
+#width-child-containar{
+    width: 40%;
+    margin: 0%;
+}
 
 .click-button{
     text-decoration: none;
