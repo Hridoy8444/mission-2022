@@ -30,6 +30,14 @@ h2{
     
     
 }
+#border-line{
+    line-height: 35px;
+    padding-left: 9px;
+    border-left: 4px solid;
+    border-image: linear-gradient(#ff9966, #ff5e62);
+    border-image-slice: 1;
+
+}
 .width-box{
     width: 50%;
     padding-top: 2%;
