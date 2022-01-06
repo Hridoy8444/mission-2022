@@ -129,11 +129,12 @@ h2{
 }
 #github-box{
     width: 40%;
-    padding-left: 10%;
+    margin-left: 2%;
 }
 #github-container{
     width: 40%;
-    margin-left: 2%;
+    
+    padding-left: 10%;
 }
 #github-container img{
     width: 70%;
