@@ -29,8 +29,8 @@ h2{
 .width-mission-box{
     width: 20%;
     padding-left: 2%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
     border-radius: 10%;
 }
 .width-mission-box img{
@@ -43,7 +43,7 @@ h2{
     color: white;
     border-radius: 5px;
 }
-#footer-width{
+.items-width{
     padding-left: 10%;
 }
 #heading-center{
@@ -51,6 +51,7 @@ h2{
 }
 #misson-bg-colour{
     background-color: #FF6F61;
+    
 }
 #vission-bg-colour{
     background-color: #6B5B95;
