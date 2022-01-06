@@ -107,7 +107,7 @@ h2{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 200px 200px;
-    background-position: right 150px bottom 0px;
+    background-position: right 150px bottom -10px;
 } 
 #Global-C{
     width: 40%;
