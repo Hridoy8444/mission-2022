@@ -123,3 +123,19 @@ h2{
     margin-left: 10%;
 
 }
+#github-login{
+    margin-top: 7%;
+}
+#github-box{
+    width: 40%;
+    padding-left: 10%;
+}
+#github-container{
+    width: 40%;
+    margin-left: 2%;
+}
+#github-container img{
+    width: 70%;
+    border-radius: 5%;
+
+}
