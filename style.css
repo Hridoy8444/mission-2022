@@ -9,13 +9,13 @@ h1{
 h2{
     font-size: 40px;
 }
-.section-padding{
-    padding-bottom: 100px;
+#my-mission{
+    margin-top: 5%;
 }
-#develop-bg-images{
-    background-image: url(images/shapes/shape-1.png);
-    background-repeat: no-repeat;
-    background-size: 300px 300px;
+}
+#develop-with{
+    margin-top: 10%;
+}
     
     
 }
@@ -35,15 +35,7 @@ h2{
 .width-box img{
     width: 70%;
 }
-.width-chiled-box{
-    width: 40%;
-    
-    
-    padding-left: 10%;
-}
-.width-chiled-box img{
-    width: 70%;
-}
+
 
 .width-mission-box{
     width: 20%;
@@ -55,6 +47,7 @@ h2{
 .width-mission-box img{
     width: 40%;
 }
+
 
 .click-button{
     text-decoration: none;
@@ -79,9 +72,25 @@ h2{
 }  
 #goal-bg-colour{
     background-color: #F7CAC9;
-}  
+} 
+#Global-community{
+    margin-top: 5%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    background-position: right 150px bottom 0px;
+} 
+#Global-C{
+    width: 40%;
+    padding-left: 10%;
 
+}
+.Global-k{
+    width: 40%;
     
-
+}
+.Global-k img{
+    width: 70%;
+    margin-left: 10%;
 
 }
