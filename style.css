@@ -60,6 +60,10 @@ h2{
 }
 #Develop-limits{
     margin-top: 8%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    background-position: left bottom 50%;
 }
 .width-child-box{
     width: 40%;
