@@ -63,8 +63,8 @@ h2{
     margin-top: 8%;
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
-    background-size: 200px 200px;
-    background-position: left bottom 50%;
+    background-size: 150px 150px;
+    background-position: left 50px bottom 50%;
 }
 .width-child-box{
     width: 40%;
@@ -107,8 +107,8 @@ h2{
     margin-top: 5%;
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
-    background-size: 200px 200px;
-    background-position: right 150px bottom -10px;
+    background-size: 150px 150px;
+    background-position: bottom 0px right 270px ;
 } 
 #Global-C{
     width: 40%;
@@ -120,12 +120,13 @@ h2{
     
 }
 .Global-k img{
-    width: 70%;
+    width: 50%;
     margin-left: 10%;
 
 }
 #github-login{
     margin-top: 7%;
+    
 }
 #github-box{
     width: 40%;
